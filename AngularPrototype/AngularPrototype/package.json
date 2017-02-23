@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "@types/core-js": "^0.9.34",
-    "@types/node": "^6.0.45",
+    "@types/node": "^7.0.0",
     "concurrently": "^3.0.0",
-    "typescript": "^2.0.3"
+    "typescript": "^2.0.10"
   }
 }
