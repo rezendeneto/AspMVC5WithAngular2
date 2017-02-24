@@ -14,7 +14,7 @@ namespace AngularPrototype
                         "~/node_modules/zone.js/dist/zone.js",
                         "~/node_modules/reflect-metadata/Reflect.js",
                         "~/node_modules/systemjs/dist/system.src.js",
-                         "~/Scripts/systemjs.config.js"));
+                         "~/systemjs.config.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
 					  "~/Content/site.css"));
